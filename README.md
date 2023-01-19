@@ -71,3 +71,37 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+
+#NEST JS Learning
+
+npm i -g @nestjs/cli
+
+# create a new nestjs project
+
+nest new project-name
+
+
+# To run the project 
+
+npm run start or nest start
+
+
+# Controllers
+    - generate Controllers
+
+        nest g controller <name>
+
+- Controllers are for routing purpose.
+
+# Body parser and DTO
+
+    - Used for define the meta data with typo for api calls.
+
+# Params 
+
+    - to get parameters from url
+
+
+# Generate a service

@@ -105,3 +105,12 @@ npm run start or nest start
 
 
 # Generate a service
+  nest g service <name>
+
+# Integrating Mongoose module
+
+npm i @nestjs/mongoose mongoose
+
+# Creating schemas 
+
+# Integrating those schemas in app.module and integrating mongoose module into the app.model
